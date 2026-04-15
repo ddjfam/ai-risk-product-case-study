@@ -1,2 +1,1 @@
-# ai-risk-product-case-study
-AI product case study covering risk modeling, roadmap planning, requirements, and stakeholder decisions.
+This repository showcases how I approach AI product strategy, requirements, prioritization, and roadmap decisions for enterprise risk-focused products.
