@@ -122,22 +122,6 @@ ai-risk-product-case-study/
     └── cover.png
 ```
 
-## Repository Structure
-
-```text
-ai-risk-product-case-study/
-│
-├── README.md
-├── problem-statement.md
-├── product-requirements.md
-├── roadmap.md
-├── user-stories.md
-├── metrics.md
-├── risks-and-dependencies.md
-└── images/
-    └── cover.png
-```
-
 ## Key Themes
 
 - AI product strategy
