@@ -1,7 +1,17 @@
 # AI Risk Product Case Study
+
 ![AI Risk Product Case Study cover](images/cover.png)
 
 Portfolio case study on AI/ML risk product strategy, roadmap, requirements, and decision-making.
+
+## Quick Links
+
+- [Problem Statement](problem-statement.md)
+- [Product Requirements](product-requirements.md)
+- [Roadmap](roadmap.md)
+- [User Stories](user-stories.md)
+- [Metrics](metrics.md)
+- [Risks and Dependencies](risks-and-dependencies.md)
 
 ## Overview
 
@@ -68,10 +78,8 @@ Primary stakeholders may include:
 
 - Product overview and business context
 - Problem framing and opportunity definition
-- User needs and workflow considerations
-- Feature prioritization approach
-- Sample roadmap
 - Product requirements examples
+- Sample roadmap
 - User stories and acceptance criteria
 - Metrics and success measures
 - Risks, dependencies, and tradeoffs
@@ -89,57 +97,26 @@ My approach to AI product strategy in regulated or risk-sensitive environments i
 
 ## Example Deliverables
 
-This repository may include documents such as:
+This repository includes documents such as:
 
 - `problem-statement.md`
-- `user-needs.md`
 - `product-requirements.md`
-- `prioritization-framework.md`
 - `roadmap.md`
 - `user-stories.md`
 - `metrics.md`
 - `risks-and-dependencies.md`
 
-## Sample Repository Structure
+## Repository Structure
 
 ```text
 ai-risk-product-case-study/
 │
 ├── README.md
 ├── problem-statement.md
-├── user-needs.md
 ├── product-requirements.md
-├── prioritization-framework.md
 ├── roadmap.md
 ├── user-stories.md
 ├── metrics.md
-└── risks-and-dependencies.md
-
-Key Themes
-AI product strategy
-risk workflow design
-product ownership
-enterprise stakeholder alignment
-prioritization and roadmap planning
-process improvement
-operational transparency
-human-centered design in complex systems
-Confidentiality Note
-
-All content in this repository is anonymized and intended for portfolio use. Any examples are adapted to avoid sharing proprietary, confidential, or sensitive business information.
-
-About Me
-
-I build and support products at the intersection of:
-
-AI/ML product strategy
-workflow automation
-product ownership
-process engineering
-enterprise transformation
-
-My background includes experience in banking, insurance, consulting, and military healthcare operations, with a focus on AI/ML risk modeling, workflow improvement, and cross-functional product delivery.
-
-Connect
-LinkedIn: https://www.linkedin.com/in/christopher-d-cole/
-Location: San Antonio, Texas
+├── risks-and-dependencies.md
+└── images/
+    └── cover.png
