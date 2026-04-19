@@ -1,5 +1,5 @@
-![AI Risk Product Case Study cover](images/cover.png)
 # AI Risk Product Case Study
+![AI Risk Product Case Study cover](images/cover.png)
 
 Portfolio case study on AI/ML risk product strategy, roadmap, requirements, and decision-making.
 
