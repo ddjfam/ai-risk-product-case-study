@@ -120,3 +120,52 @@ ai-risk-product-case-study/
 ├── risks-and-dependencies.md
 └── images/
     └── cover.png
+```
+
+## Repository Structure
+
+```text
+ai-risk-product-case-study/
+│
+├── README.md
+├── problem-statement.md
+├── product-requirements.md
+├── roadmap.md
+├── user-stories.md
+├── metrics.md
+├── risks-and-dependencies.md
+└── images/
+    └── cover.png
+```
+
+## Key Themes
+
+- AI product strategy
+- Risk workflow design
+- Product ownership
+- Enterprise stakeholder alignment
+- Prioritization and roadmap planning
+- Process improvement
+- Operational transparency
+- Human-centered design in complex systems
+
+## Confidentiality Note
+
+All content in this repository is anonymized and intended for portfolio use. Any examples are adapted to avoid sharing proprietary, confidential, or sensitive business information.
+
+## About Me
+
+I build and support products at the intersection of:
+
+- AI/ML product strategy
+- Workflow automation
+- Product ownership
+- Process engineering
+- Enterprise transformation
+
+My background includes experience in banking, insurance, consulting, and military healthcare operations, with a focus on AI/ML risk modeling, workflow improvement, and cross-functional product delivery.
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/christopher-d-cole/
+- Location: San Antonio, Texas
