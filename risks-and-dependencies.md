@@ -1,5 +1,7 @@
 # Risks and Dependencies
 
+**Portfolio method / illustrative guidance. Career outcomes are identified separately in the [repository overview](README.md).**
+
 ## Overview
 
 This document outlines example risks and dependencies for an AI risk workflow product. In enterprise environments, successful delivery depends not only on strong product design, but also on stakeholder alignment, operational readiness, governance clarity, and tool/process integration.

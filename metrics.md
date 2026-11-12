@@ -1,5 +1,7 @@
 # Metrics
 
+**Portfolio method / illustrative guidance. Career outcomes are identified separately in the [repository overview](README.md).**
+
 ## Metrics Overview
 
 The success of an AI risk workflow product should be measured using both product and operational metrics. The goal is not only to launch features, but to improve visibility, efficiency, consistency, and stakeholder experience.

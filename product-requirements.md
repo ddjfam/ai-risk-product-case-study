@@ -1,5 +1,7 @@
 # Product Requirements
 
+**Portfolio method / illustrative guidance. Career outcomes are identified separately in the [repository overview](README.md).**
+
 ## Product Name
 
 AI Risk Workflow Platform

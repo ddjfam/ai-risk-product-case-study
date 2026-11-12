@@ -1,5 +1,7 @@
 # Roadmap
 
+**Portfolio method / illustrative guidance. Career outcomes are identified separately in the [repository overview](README.md).**
+
 ## Roadmap Goal
 
 Deliver an AI risk workflow product that improves request intake, workflow visibility, prioritization, and decision support for enterprise stakeholders.

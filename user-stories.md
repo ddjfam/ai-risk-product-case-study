@@ -1,5 +1,7 @@
 # User Stories
 
+**Portfolio method / illustrative guidance. Career outcomes are identified separately in the [repository overview](README.md).**
+
 ## User Story Overview
 
 These example user stories show how an AI risk workflow product could support internal stakeholders by improving intake, visibility, prioritization, and decision tracking.

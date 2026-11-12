@@ -1,5 +1,7 @@
 # Problem Statement
 
+**Portfolio method / illustrative guidance. Career outcomes are identified separately in the [repository overview](README.md).**
+
 ## Background
 
 Organizations adopting AI/ML solutions in regulated or risk-sensitive environments often face fragmented workflows, inconsistent intake processes, limited visibility, and manual coordination across multiple stakeholders. These issues slow delivery, create confusion, and make it harder to scale risk-aware product decisions.

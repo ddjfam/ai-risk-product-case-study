@@ -1,164 +1,38 @@
-# AI Risk Product Case Study
+# Enterprise Risk Transformation & Product Leadership
 
-![AI Risk Product Case Study cover](images/cover.png)
+**Christopher D. Cole | Enterprise control analytics, roadmap governance and delivery**
 
-Portfolio case study on AI/ML risk product strategy, roadmap, requirements, and decision-making.
+My Corporate Risk work connects process analysis, control ownership and technology delivery. I use data to focus attention, make tradeoffs visible and move approved changes through a governed roadmap.
 
-## Quick Links
+## Experience to review first
 
-- [Problem Statement](problem-statement.md)
-- [Product Requirements](product-requirements.md)
-- [Roadmap](roadmap.md)
-- [User Stories](user-stories.md)
-- [Metrics](metrics.md)
-- [Risks and Dependencies](risks-and-dependencies.md)
+| Case | My contribution | Reported scale / result |
+|---|---|---|
+| [Enterprise control analysis](enterprise-controls-analysis.md) | Led analysis and visualization to identify redundancy candidates and automation opportunities | **149,464 controls across seven lines of business; 40 clusters and 24,622 sub-clusters** |
+| [Roadmap and delivery governance](executive-roadmap-and-governance.md) | Connected a six-quarter roadmap to OKRs, releases, risk ownership and review routines | **60+ releases in 2024; 25+ change outputs with 100% on-time delivery in 2025** |
+| [Controls by design and remediation](executive-roadmap-and-governance.md#controls-by-design-and-remediation) | Analyzed defects/issues, established risk ownership and automated record checks | **30+ weaknesses identified; 100% of product risks assigned owners; up to 95% fewer manual record errors in the affected Jira work** |
 
-## Overview
+The control-analysis counts describe analytical scope and outputs. They are not counts of controls removed or cash savings. Delivery measures concern the stated periods and work scope.
 
-This repository presents an anonymized product case study showing how I approach AI-enabled risk products in complex enterprise environments. It highlights product strategy, stakeholder alignment, backlog prioritization, workflow design, and decision-making for risk-focused platforms.
+## Executive leadership approach
 
-This case study is intended to demonstrate how I think and work as an:
+- Connect vision to a strategy, a sequenced roadmap and measurable delivery outcomes.
+- Separate the decision needed from background detail; show owner, options and tradeoffs.
+- Make dependencies and risks visible early, with escalation and review dates.
+- Establish accountable process and control owners across functions.
+- Validate operational value alongside delivery quality and release predictability.
 
-- AI Product Manager
-- Product Owner
-- Process Engineer
+## Product methods and illustrative artifacts
 
-## Context
+The following documents show how I structure AI/ML risk-product decisions. They are reusable, generalized portfolio artifacts; the experience cases above contain the career outcomes.
 
-Enterprise teams adopting AI need products that are useful, compliant, explainable, and operationally sound. In risk-sensitive environments, product leaders must balance user experience, model governance, controls, workflow efficiency, and delivery priorities.
+| Artifact | Focus |
+|---|---|
+| [Problem statement](problem-statement.md) | User pain, operating constraints and intended outcomes |
+| [Product requirements](product-requirements.md) | Requirements, controls and stakeholder needs |
+| [Roadmap](roadmap.md) | Sequenced delivery and dependencies |
+| [User stories](user-stories.md) | Testable changes and acceptance criteria |
+| [Metrics](metrics.md) | Product, operational and risk measures |
+| [Risks and dependencies](risks-and-dependencies.md) | Ownership, mitigation and escalation |
 
-This case study shows how I would structure and lead a product effort involving AI/ML risk workflows, cross-functional stakeholders, and enterprise process constraints.
-
-## Representative Product Impact
-
-This portfolio reflects product work involving:
-
-- AI-enabled risk workflows and model-related product decisions
-- backlog prioritization and enhancement delivery
-- KPI-informed product improvement
-- workflow transparency and operational support for complex enterprise users
-
-## Problem Statement
-
-Risk and model governance teams often rely on fragmented processes, manual reviews, disconnected tools, and inconsistent requirements. These issues can slow delivery, reduce visibility, and make it harder for stakeholders to manage model lifecycle activities effectively.
-
-The opportunity is to design a product experience that improves:
-
-- workflow clarity
-- stakeholder alignment
-- intake and review efficiency
-- prioritization of product enhancements
-- transparency into risk-related decisions
-
-## Goals
-
-- Define a clear product vision for an AI-enabled risk workflow
-- Translate business and user needs into actionable requirements
-- Prioritize features using impact, risk, and feasibility
-- Improve usability for complex internal workflows
-- Support better decision-making through structured product artifacts and metrics
-
-## My Role
-
-In this case study, I demonstrate how I would contribute across:
-
-- Product vision and strategy
-- Discovery and requirements gathering
-- Backlog prioritization
-- User story development
-- Workflow and experience design
-- Stakeholder communication
-- KPI/KRI and success metric framing
-- Release and roadmap planning
-
-## Users / Stakeholders
-
-Primary stakeholders may include:
-
-- Risk managers
-- Model governance teams
-- Product managers and product owners
-- Operations teams
-- Compliance and control partners
-- Technology and engineering teams
-- Executive decision-makers
-
-## What This Repository Includes
-
-- Product overview and business context
-- Problem framing and opportunity definition
-- Product requirements examples
-- Sample roadmap
-- User stories and acceptance criteria
-- Metrics and success measures
-- Risks, dependencies, and tradeoffs
-
-## Product Strategy Approach
-
-My approach to AI product strategy in regulated or risk-sensitive environments includes:
-
-1. Understanding the business problem before jumping to features
-2. Identifying user pain points across the workflow
-3. Balancing usability, controls, and operational efficiency
-4. Prioritizing work based on impact, feasibility, and risk
-5. Creating clear artifacts that align stakeholders and accelerate delivery
-6. Measuring success with both operational and product outcomes
-
-## Example Deliverables
-
-This repository includes documents such as:
-
-- `problem-statement.md`
-- `product-requirements.md`
-- `roadmap.md`
-- `user-stories.md`
-- `metrics.md`
-- `risks-and-dependencies.md`
-
-## Repository Structure
-
-```text
-ai-risk-product-case-study/
-│
-├── README.md
-├── problem-statement.md
-├── product-requirements.md
-├── roadmap.md
-├── user-stories.md
-├── metrics.md
-├── risks-and-dependencies.md
-└── images/
-    └── cover.png
-```
-
-## Key Themes
-
-- AI product strategy
-- Risk workflow design
-- Product ownership
-- Enterprise stakeholder alignment
-- Prioritization and roadmap planning
-- Process improvement
-- Operational transparency
-- Human-centered design in complex systems
-
-## Confidentiality Note
-
-All content in this repository is anonymized and intended for portfolio use. Any examples are adapted to avoid sharing proprietary, confidential, or sensitive business information.
-
-## About Me
-
-I build and support products at the intersection of:
-
-- AI/ML product strategy
-- Workflow automation
-- Product ownership
-- Process engineering
-- Enterprise transformation
-
-My background includes experience in banking, insurance, consulting, and military healthcare operations, with a focus on AI/ML risk modeling, workflow improvement, and cross-functional product delivery.
-
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/christopher-d-cole/
-- Location: San Antonio, Texas
+[Profile](https://github.com/ddjfam) · [Reengineering CoE toolkit](https://github.com/ddjfam/process-engineering-playbook) · [Enterprise AI enablement](https://github.com/ddjfam/agentic-ai-automation-playbook)
